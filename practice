@@ -1,0 +1,13 @@
+```
+
+<DOCTYPE html>
+	<html>
+		<head>test img </head>
+			<body>
+				<h2> img site </h2>
+				<p> html img </p>
+				<img src="test.jpg" alt="satafti.ir" width="100" height="100" />
+			</body>
+	</html>
+  
+```
